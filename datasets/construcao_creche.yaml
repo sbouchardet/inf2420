@@ -1,0 +1,6 @@
+source: http://api.pgi.gov.br/api/1/serie/2620.json
+description: 'Quantidade de creches e pré-escolas cujas obras foram concluídas 
+  no ano de referência. Os projetos foram apresentados pelos municípios e aprovados 
+  pelo Governo Federal de 2010 até 2014.'
+format: json
+local_source: ./data/construcao_creche.json

@@ -1,10 +1,5 @@
 # INF2420
 
-## Download DataSources
-```bash
-make download
-```
-
 ## Setup
 ### 1 - Create virtualenv
 ```bash
@@ -14,11 +9,11 @@ source .env/bin/activate
 
 ### 2 - Install dependencies
 ```bash
-pip install -r requirements.txt
+make setup
 ```
 
 ## Run Jupyter Notebook
 
 ```bash
-jupyter notebook
+make run
 ```

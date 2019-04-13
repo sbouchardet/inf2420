@@ -1,0 +1,7 @@
+source: http://api.pgi.gov.br/api/1/serie/1703.json
+description: 'Valor do investimento para a construção 
+  das creches e pré-escolas cujos projetos apresentados 
+  pelos municípios foram aprovados pelo Governo Federal 
+  de 2010 até 2014.'
+format: json
+local_source: ./data/investimento_em_construcao_creche.json

@@ -1,6 +1,7 @@
+.PHONY: setup run
 
-download:
-	@bash -c 'scripts/download_media_alunos.sh'
-	@bash -c 'scripts/download_indicadores_ensino_basico.sh'
+setup:
+	@pip install -r requirements.txt
 
-
+run:
+	@jupyter notebook
