@@ -1,4 +1,4 @@
 source: http://download.inep.gov.br/informacoes_estatisticas/2011/indicadores_educacionais/media_alunos_turma/2008/media_alunos_turma_municipios_2008.zip
 description: Média de alunos por turmas em escolas e creches em 2008.
-format: xls zipped
+format: zip xls
 local_source: ./data/media_alunos_2008

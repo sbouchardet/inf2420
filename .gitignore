@@ -3,3 +3,5 @@
 .ipynb_checkpoints
 /data/*
 !/data/.keep
+__pycache__/
+.coverage
