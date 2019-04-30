@@ -46,3 +46,4 @@ webencodings==0.5.1
 widgetsnbextension==3.4.2
 xlrd==1.2.0
 dataset_manager<0.1
+seaborn
