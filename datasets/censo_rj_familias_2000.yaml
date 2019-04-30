@@ -1,0 +1,4 @@
+description: censo 2000 familias
+format: zip xls
+local_source: ./data/censo_2000
+source: ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2000/familias/Municipios/rj.zip
