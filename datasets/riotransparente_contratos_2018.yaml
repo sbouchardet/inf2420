@@ -1,0 +1,6 @@
+description: "Apresentam informa\xE7\xF5es relativas aosdados cadastrais e valoresdos\
+  \ instrumentos contratuais cadastrados no sistema corporativo da PCRJ (Sistema de\
+  \ Controle de Contratos \u2013FCTR) de 2018."
+format: csv
+local_source: ./data/Open_Data_Contratos_2018.csv
+source: http://riotransparente.rio/riotransparente/arquivos/Open_Data_Contratos_2018.txt

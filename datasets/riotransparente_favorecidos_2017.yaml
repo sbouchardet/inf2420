@@ -1,0 +1,12 @@
+description: "Apresentam informa\xE7\xF5es relativas a cada liquida\xE7\xE3o realizada\
+  \ para o seu respectivo favorecido, tanto relativas a execu\xE7\xE3o or\xE7ament\xE1\
+  ria quanto a execu\xE7\xE3o de restos a pagar. O ano selecionado na tela de consulta\
+  \  refere-se  ao  exerc\xEDcio  em  que  ocorreram  as  movimenta\xE7\xF5es  de\
+  \  liquida\xE7\xE3o  e pagamento  e  respectivas  anula\xE7\xF5es.  Desta  forma,\
+  \  uma  mesma  liquida\xE7\xE3o  pode  ser apresentada em consultas realizadas com\
+  \ anos diferentes, para os casos de execu\xE7\xE3o de restos a pagar, quando a liquida\xE7\
+  \xE3o tenha ocorrido em um ano e o pagamento tenha ocorrido em anos posteriores\
+  \ de 2017."
+format: csv
+local_source: ./data/Open_Data_Favorecidos_2017.csv
+source: http://riotransparente.rio/riotransparente/arquivos/Open_Data_Favorecidos_2017.txt
