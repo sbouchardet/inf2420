@@ -1,0 +1,11 @@
+description: "Apresentam informa\xE7\xF5es relativas a cada ato de execu\xE7\xE3o\
+  \ or\xE7ament\xE1ria e de restos a pagar realizados no ano selecionado. Esta consulta\
+  \ se diferencia da consulta \u201CFavorecidos\u201D por apresentar os atos de realiza\xE7\
+  \xE3o (e cancelamentos) de empenhos, com seus respectivos valores, que ainda n\xE3\
+  o tenham sido liquidados, al\xE9m de campos indicativos de a\xE7\xE3o com servi\xE7\
+  o p\xFAblico de sa\xFAde ou de manuten\xE7\xE3o e desenvolvimento de ensino. Cada\
+  \ registro da consulta corresponde a um ato de realiza\xE7\xE3o ou de cancelamento\
+  \ de 2016."
+format: csv
+local_source: ./data/Open_Data_Desp_Ato_2016.csv
+source: http://riotransparente.rio/riotransparente/arquivos/Open_Data_Desp_Ato_2016.txt

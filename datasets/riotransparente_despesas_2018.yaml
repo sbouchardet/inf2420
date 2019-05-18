@@ -1,0 +1,9 @@
+description: "Apresentam informa\xE7\xF5es consolidadas da execu\xE7\xE3o or\xE7ament\xE1\
+  ria relativas aos valores do or\xE7amento atualizado (j\xE1 contemplando os cr\xE9\
+  ditos adicionais e os cancelamentos de cr\xE9ditos), empenhado, liquidado e pago,\
+  \ ocorridos no ano selecionado. Tamb\xE9m apresenta, em campo espec\xEDfico, os\
+  \ valores pagos relativos \xE0 execu\xE7\xE3o dos restos a pagar somados aos valores\
+  \ pagos relativos \xE0 execu\xE7\xE3o or\xE7ament\xE1ria de 2018."
+format: csv
+local_source: ./data/Open_Data_Desp_2018.csv
+source: http://riotransparente.rio/riotransparente/arquivos/Open_Data_Desp_2018.txt

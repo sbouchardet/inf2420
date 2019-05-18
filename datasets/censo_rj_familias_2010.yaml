@@ -1,5 +1,5 @@
 description: censo 2010 familias
+local_source: ./data/censo_2010
 format: xls
 compression: zip
-local_source: ./data/censo_2010
 source: ftp://ftp.ibge.gov.br/Censos/Censo_Demografico_2010/Familias_e_Domicilios/xls/Municipios/rio_de_janeiro_xls.zip
